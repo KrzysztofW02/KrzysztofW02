@@ -1,0 +1,39 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg" style="background-color: #121212;">
+  <style>
+    @keyframes typing {
+      from { clip-path: inset(0 100% 0 0); }
+      to { clip-path: inset(0 0 0 0); }
+    }
+
+    @keyframes cursorMove {
+      from { transform: translateX(0); }
+      to { transform: translateX(283px); } /* Poprawiona długość tekstu */
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      50.1%, 100% { opacity: 0; }
+    }
+
+    .text {
+      font-family: 'Fira Code', monospace;
+      font-size: 24px;
+      fill: #36BCF7;
+      clip-path: inset(0 100% 0 0); /* Ukrycie tekstu na początku */
+      animation: typing 2s steps(22, end) forwards;
+    }
+
+    .cursor {
+      font-family: 'Fira Code', monospace;
+      font-size: 24px;
+      fill: #36BCF7;
+      animation: cursorMove 2s steps(22, end) forwards, blink 0.7s step-end infinite;
+    }
+  </style>
+
+  <!-- Tekst wpisywany -->
+  <text x="10" y="50" class="text">Welcome to my profile!</text>
+
+  <!-- Migający kursor -->
+  <text x="10" y="50" class="cursor">|</text>
+</svg>
