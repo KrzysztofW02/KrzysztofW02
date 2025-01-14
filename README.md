@@ -14,12 +14,10 @@ Hi! I'm a Computer Science student. In my free time, I enjoy working on my own p
 I mainly focus on C# and Python, but I like exploring other languages as well to broaden my skills. One of my favorite areas of programming is game development, where I enjoy creating both mechanics and visual elements of games. I also place great emphasis on UI/UX design, understanding how critical it is for delivering a seamless and enjoyable experience for users.
 
 
-<!--
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark" alt="Profile Details" width="60.6%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KrzysztofW02&theme=github_dark" alt="Productive Time" width="29.4%">
+</br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark" alt="Profile Details">
 </div>
--->
 
 
 ## 🚀 My Projects
@@ -41,7 +39,6 @@ This is a microservices-based application built with C# in the backend and TypeS
   
 ### 💻 **Programming Languages**
 <p>
-  
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
@@ -84,8 +81,11 @@ This is a microservices-based application built with C# in the backend and TypeS
 <p>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/cypress-icon.svg" alt="Cypress" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  
+**...and more!**  
 
   #
   
