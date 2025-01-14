@@ -2,7 +2,6 @@
   <img src="animation1.svg" alt="" width="550">
 </div>
 
-
 ## 👋 About Me 
 
 <a href="#">
@@ -13,13 +12,15 @@ Hi! I'm a Computer Science student. In my free time, I enjoy working on my own p
 
 I mainly focus on C# and Python, but I like exploring other languages as well to broaden my skills. One of my favorite areas of programming is game development, where I enjoy creating both mechanics and visual elements of games. I also place great emphasis on UI/UX design, understanding how critical it is for delivering a seamless and enjoyable experience for users.
 
-
 </br>
 <div align="center">
+  
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KrzysztofW02&theme=transparent)](https://git.io/streak-stats)
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark&cachebust=1" alt="Profile Details">
 </div>
 
-
+<!--
 ## 🚀 My Projects
 
 - **[Mouse Tasker](https://github.com/KrzysztofW02/MouseTasker) 🖱️**
@@ -31,7 +32,7 @@ Dungeon-crawling game made in Unity where players control a character exploring 
 - **[Task Planning System](https://github.com/KrzysztofW02/Task-Planning-System) 📅**
 This is a microservices-based application built with C# in the backend and TypeScript, React, and Vite in the frontend. This system aims to streamline task management and planning.
 ### 📂 [Other Projects](https://github.com/KrzysztofW02?tab=repositories)⬅️
-
+-->
 </br>
 
 ## 🛠️ Technologies & Tools
