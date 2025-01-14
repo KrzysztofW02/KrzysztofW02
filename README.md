@@ -16,7 +16,7 @@ I mainly focus on C# and Python, but I like exploring other languages as well to
 
 </br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark&cachebust=1" alt="Profile Details">
 </div>
 
 
