@@ -15,7 +15,7 @@ I mainly focus on C# and Python, but I like exploring other languages as well to
 </br>
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrzysztofW02&theme=github-dark-blue)
+[![GitHub Streak](https://streak-stats-r9j9g37qr-krzysztofs-projects-9e15608a.vercel.app?user=KrzysztofW02&theme=youtube-dark)](https://git.io/streak-stats)
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark&cachebust=1" alt="Profile Details">
 </div>
