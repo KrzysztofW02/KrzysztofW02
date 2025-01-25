@@ -18,7 +18,7 @@
     .text {
       font-family: 'Fira Code', monospace;
       font-size: 24px;
-      fill: #36BCF7;
+      fill: #39d353;
       clip-path: inset(0 100% 0 0); 
       animation: typing 2s steps(22, end) forwards;
     }
@@ -26,7 +26,7 @@
     .cursor {
       font-family: 'Fira Code', monospace;
       font-size: 24px;
-      fill: #36BCF7;
+      fill: #39d353;
       animation: cursorMove 2s steps(22, end) forwards, blink 0.7s step-end infinite;
     }
   </style>
