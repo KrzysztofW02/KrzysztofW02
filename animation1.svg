@@ -1,37 +1,64 @@
-<svg viewBox="0 0 308 80" xmlns="http://www.w3.org/2000/svg" style="background-color: #none;">
+<svg viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
   <style>
-    @keyframes typing {
-      from { clip-path: inset(0 100% 0 0); }
-      to { clip-path: inset(0 0 0 0); }
+    @keyframes stepAnim {
+      0%    { opacity: 0; }
+      1%    { opacity: 1; }
+      98%   { opacity: 1; }
+      100%  { opacity: 0; }
     }
-
-    @keyframes cursorMove {
-      from { transform: translateX(0); }
-      to { transform: translateX(283px); } 
+    
+    @keyframes appear {
+      to { opacity: 1; }
     }
-
+    
     @keyframes blink {
       0%, 50% { opacity: 1; }
       50.1%, 100% { opacity: 0; }
     }
-
+    
     .text {
       font-family: 'Fira Code', monospace;
       font-size: 24px;
       fill: #39d353;
-      clip-path: inset(0 100% 0 0); 
-      animation: typing 2s steps(22, end) forwards;
+      white-space: pre;
+      opacity: 0;
     }
-
-    .cursor {
-      font-family: 'Fira Code', monospace;
-      font-size: 24px;
-      fill: #39d353;
-      animation: cursorMove 2s steps(22, end) forwards, blink 0.7s step-end infinite;
+    
+    .step {
+      animation: stepAnim 0.117s linear forwards;
+    }
+    
+    .step2 {
+      opacity: 0;
+      animation: appear 0s forwards;
+    }
+    
+    .final {
+      animation: appear 0s forwards 2.849s, blink 0.7s step-end infinite 2.849s;
     }
   </style>
 
-  <text x="10" y="50" class="text">Welcome to my profile!</text>
-  
-  <text x="10" y="50" class="cursor">|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0s;">|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.113s;">W|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.226s;">We|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.339s;">Wel|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.452s;">Welc|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.565s;">Welco|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.678s;">Welcom|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.791s;">Welcome|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 0.904s;">Welcome |</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.017s;">Welcome t|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.130s;">Welcome to|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.243s;">Welcome to |</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.356s;">Welcome to my|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.469s;">Welcome to my |</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.582s;">Welcome to my p|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.695s;">Welcome to my pr|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.808s;">Welcome to my pro|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 1.921s;">Welcome to my prof|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 2.034s;">Welcome to my profi|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 2.147s;">Welcome to my profil|</text>
+  <text x="10" y="50" class="text step" style="animation-delay: 2.260s;">Welcome to my profile!|</text>
+  <text x="10" y="50" class="text step2" style="animation-delay: 2.373s;">Welcome to my profile!</text>
+  <text x="10" y="50" class="text final" style="">Welcome to my profile!|</text>
 </svg>
