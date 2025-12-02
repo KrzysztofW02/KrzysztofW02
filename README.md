@@ -5,13 +5,16 @@
 ## 👋 About Me 
 
 <a href="#">
-  <img src="gif1.gif" width="200" align="right" alt="">
+  <img src="gif1.gif" width="190" align="right" alt="">
 </a>
 
 Hi! I'm a Computer Science student. In my free time, I enjoy working on my own projects, especially those that let me solve interesting problems or try out new ideas. I approach these projects with consistency, applying the Slight Edge method by making small, daily improvements that steadily lead to progress.
 
-I mainly focus on C# and Python, but I like exploring other languages as well to broaden my skills. One of my favorite areas of programming is game development, where I enjoy creating both mechanics and visual elements of games. I also place great emphasis on UI/UX design, understanding how critical it is for delivering a seamless and enjoyable experience for users.
+I primarily work with C# and Python. I am driven by the desire to create applications that are genuinely useful. I like experimenting with different technologies to build software that creates consistent results and helps automate or simplify complex activities.
 
+</br>
+</br>
+</br>
 </br>
 <div align="center">
   
@@ -20,19 +23,6 @@ I mainly focus on C# and Python, but I like exploring other languages as well to
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark&cachebust=1" alt="Profile Details">
 </div>
 
-<!--
-## 🚀 My Projects
-
-- **[Mouse Tasker](https://github.com/KrzysztofW02/MouseTasker) 🖱️**
-An application in Python designed to automate mouse tasks, allowing users to record, save, and replay sequences of mouse actions, with advanced features that improve functionality and help conceal the use of the application.
-  
-- **[Spell Catcher](https://github.com/KrzysztofW02/SpellCatcher) 🎮**
-Dungeon-crawling game made in Unity where players control a character exploring generated dungeons by unlocking new rooms after defeating all the enemies in the current one. The game features a progression system that allows players to level up their character and improve stats.
-
-- **[Task Planning System](https://github.com/KrzysztofW02/Task-Planning-System) 📅**
-This is a microservices-based application built with C# in the backend and TypeScript, React, and Vite in the frontend. This system aims to streamline task management and planning.
-### 📂 [Other Projects](https://github.com/KrzysztofW02?tab=repositories)⬅️
--->
 </br>
 
 ## 🛠️ Technologies & Tools
