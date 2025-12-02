@@ -2,24 +2,20 @@
   <img src="animation1.svg" alt="" width="550">
 </div>
 
-## 👋 About Me 
+## 👋 About Me
 
-<a href="#">
-  <img src="gif1.gif" width="190" align="right" alt="">
-</a>
+<a href="#"><img src="gif1.gif" width="185" align="right" alt="gif" /></a>
+### Hi! I'm a Computer Science student. In my free time, I enjoy working on my own projects, especially those that let me solve interesting problems or try out new ideas. I approach these projects with consistency, applying the Slight Edge method by making small, daily improvements that steadily lead to progress.
 
-Hi! I'm a Computer Science student. In my free time, I enjoy working on my own projects, especially those that let me solve interesting problems or try out new ideas. I approach these projects with consistency, applying the Slight Edge method by making small, daily improvements that steadily lead to progress.
-
-I primarily work with C# and Python. I am driven by the desire to create applications that are genuinely useful. I like experimenting with different technologies to build software that creates consistent results and helps automate or simplify complex activities.
-
-</br>
-</br>
-</br>
-</br>
+### I primarily work with C# and Python. I am driven by the desire to create applications that are genuinely useful. I like experimenting with different technologies to build software that creates consistent results and helps automate or simplify complex activities.
+</h3>
+<br clear="all" />
+</br> </br>
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats-r9j9g37qr-krzysztofs-projects-9e15608a.vercel.app?user=KrzysztofW02&theme=github-dark)](https://git.io/streak-stats)
-  
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats-r9j9g37qr-krzysztofs-projects-9e15608a.vercel.app?user=KrzysztofW02&theme=github-dark" />
+  </a>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrzysztofW02&theme=github_dark&cachebust=1" alt="Profile Details">
 </div>
 
