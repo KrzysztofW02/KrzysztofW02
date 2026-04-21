@@ -21,61 +21,54 @@
 
 </br>
 
-## 🛠️ Technologies & Tools
-<div align="center">
+## 🛠️ Technologies & Tools 
+<div align="center"> 
   
-### 💻 **Programming Languages**
-<p>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40"/>
-  
-  #
-  
-</p>
+### 💻 **Programming Languages** <p align="center"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" /> 
+</p> 
 
-### 🧩 **Frameworks & Libraries**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
+<br>
 
-  #
-  
-</p>
+### 🧩 **Frameworks & Libraries** <p> 
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="Qt" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" /> 
+</p> 
 
-### 🎨 Design Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<br>
 
-  #
-  
-</p>
+### 🎨 Design Tools 
+<p> 
+  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /> 
+</p> 
 
-### 🔨 **Other Tools**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/cypress-icon.svg" alt="Cypress" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  
-**...and more!**  
+<br>
 
-  #
-  
-</p>
+### 🔨 **Other Tools** <p> 
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" /> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/cypress-icon.svg" alt="Cypress" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" /> 
+  <br>
+  <br>
+  <b>...and more!</b>  
+</p> 
+
+<br>
 
 </div>
